@@ -19,6 +19,7 @@
 		"*.woff2"
 	],
 	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).sublime-color-scheme",
 	"create_window_at_startup": false,
 	"dictionary": "Packages/Language - English/en_UK.dic",
 	"ensure_newline_at_eof_on_save": true,
@@ -35,7 +36,10 @@
 	"ignored_packages":
 	[
 	],
-	"indent_guide_options": ["draw_active"],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
 	"rulers":
 	[
 		80,
