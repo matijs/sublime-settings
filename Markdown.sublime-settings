@@ -1,5 +1,6 @@
 // These settings override both User and Default settings for the Markdown syntax
 {
 	// In Markdown trailing whitespace has meaning
-	"trim_trailing_white_space_on_save": false
+	"trim_trailing_white_space_on_save": false,
+	"wrap_width": 80
 }
