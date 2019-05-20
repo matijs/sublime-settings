@@ -2,5 +2,6 @@
 {
 	// In Markdown trailing whitespace has meaning
 	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true,
 	"wrap_width": 80
 }
