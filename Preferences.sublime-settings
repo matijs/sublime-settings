@@ -23,6 +23,13 @@
 	"create_window_at_startup": false,
 	"dictionary": "Packages/Language - English/en_UK.dic",
 	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.swp",
+		"*.sublime-workspace",
+		"*.sublime-project"
+	],
 	"folder_exclude_patterns":
 	[
 		".git",
