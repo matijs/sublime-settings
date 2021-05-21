@@ -28,14 +28,17 @@
 		".DS_Store",
 		"*.swp",
 		"*.sublime-workspace",
-		"*.sublime-project"
+		"*.sublime-project",
+		"package-lock.json"
 	],
 	"folder_exclude_patterns":
 	[
 		".git",
 		".hg",
 		"node_modules",
-		"dist"
+		"dist",
+		".cache",
+		".sass-cache"
 	],
 	"font_face": "Fira Code",
 	"font_options":
@@ -50,8 +53,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"CSS"
+		"CSS",
+		"JavaScript"
 	],
 	"indent_guide_options":
 	[
